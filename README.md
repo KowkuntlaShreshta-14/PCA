@@ -1,1 +1,2 @@
 # PCA
+This project demonstrates the use of Principal Component Analysis (PCA) to perform dimensionality reduction and visualization on a self-created dataset.PCA is an unsupervised learning technique that transforms a high-dimensional dataset into a lower-dimensional form while preserving as much variance as possible. It is widely used for feature reduction, noise elimination, and data visualization. Google Colab notebook is used.
